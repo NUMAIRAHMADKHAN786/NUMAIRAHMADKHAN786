@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding 
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... => numairahmadkhan@gmail.com
+- 📫 How to reach me ... => numairahmadkhan813@gmail.com
 - 😄 Pronouns: ...Nummiii
 - ⚡ Fun fact: ...I don't have phone.
 
